@@ -1,8 +1,8 @@
 ### Design-of-FIR-Filters-using-hamming-window
 ### DESIGN OF LOW PASS FIR DIGITAL FILTER 
-Name: P SAKTHIVEL
+Name: HAMAR NIDHI S
 
-Reg No: 212223060238
+Reg No: 212223060076
 
 ### AIM:       
   To generate design of high pass FIR digital filter using SCILAB 
